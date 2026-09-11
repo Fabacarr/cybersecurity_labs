@@ -1,7 +1,7 @@
-# Network Intrusion Detection System
+# Network Intrusion Detection System (NIDS)
 
 ## Project Overview
-This project implements a **Network Intrusion Detection System (NIDS)** using **Snort** on Arch Linux. It detects ICMP ping traffic in real-time and visualizes network activity using **EtherApe** and **Wireshark**.
+A hands-on NIDS project built with Snort on Arch Linux, with live visualization via EtherApe and packet analysis in Wireshark.
 
 **Task:** Network Intrusion Detection System (NIDS)  
 
@@ -220,3 +220,4 @@ Screenshots
 
 ---
 
+https://lnkd.in/p/eQkF__Gt
