@@ -220,4 +220,4 @@ Screenshots
 
 ---
 
-https://lnkd.in/p/eQkF__Gt
+Featured on LinkedIn:https://lnkd.in/p/eQkF__Gt
