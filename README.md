@@ -12,7 +12,7 @@ A working NIDS built with **Snort** on Arch Linux. Detects ICMP traffic using cu
 **Tools:** Snort, EtherApe, Wireshark, Arch Linux  
 **Skills:** Rule creation, traffic monitoring, packet analysis, Linux troubleshooting
 
-[`snort-nids/`](./snort-nids)
+[`nids/`](./NIDS)
 
 ---
 
@@ -22,7 +22,7 @@ A Python-based packet sniffer using **Scapy** that captures live network traffic
 **Tools:** Python, Scapy  
 **Skills:** Packet capture, protocol analysis, socket programming
 
-[`python-network-sniffer/`](./python-network-sniffer)
+[`networksniffer/`](./NetworkSniffer)
 
 ---
 
@@ -51,26 +51,20 @@ The goal is to build practical, hands-on experience in:
 
 ## Repository Structure
 
-cybersecurity-projects/
-│
-├── snort-nids/ # Network Intrusion Detection System
-│ ├── rules/
-│ ├── screenshots/
-│ └── README.md
-│
-├── python-network-sniffer/ # Python packet sniffer
-│ ├── sniffer.py
-│ ├── requirements.txt
-│ ├── screenshots/
-│ └── README.md
-│
-├── phishing-awareness/ # Phishing training module
-│ ├── presentation.pptx
-│ ├── assets/
-│ └── README.md
-│
-└── README.md # This file
-
+**cybersecurity-projects/**
+**│**
+**├── snort-nids/** # Network Intrusion Detection System
+**│ ├── rules/**
+**│ ├── screenshots/**
+**│ └── README.md**
+**│
+**├── python-network-sniffer/** # Python packet sniffer
+**│ ├── sniffer.py**
+**│ ├── requirements.txt**
+**│ ├── screenshots/**
+**│ └── README.md**
+**│
+**└── README.md** # This file
 
 ---
 
@@ -99,8 +93,18 @@ Navigate into any project folder and follow its README to get started.
 ## Author
 
 **Abubacarr Jarju**  
-Aspiring Cybersecurity Analyst  
+Building hands-on skills in networking, cybersecurity, and systems administration. 
 LinkedIn Profile: https://www.linkedin.com/in/abubacarr-jarju-1a5381344/
+
+## About Me
+
+I'm building hands-on experience across **networking, cybersecurity, systems administration, and DevOps**. This repository is a collection of my labs and projects as I develop practical skills in:
+
+- **Cybersecurity** — intrusion detection, traffic analysis, threat awareness
+- **Networking** — packet analysis, protocols, network monitoring
+- **Systems Administration** — Linux, VMs, system hardening
+- **DevOps** — automation, tooling, infrastructure (learning)
+
 
 ---
 
