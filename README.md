@@ -49,25 +49,6 @@ The goal is to build practical, hands-on experience in:
 
 ---
 
-## Repository Structure
-
-**cybersecurity-projects/**
-**│**
-**├── snort-nids/** # Network Intrusion Detection System
-**│ ├── rules/**
-**│ ├── screenshots/**
-**│ └── README.md**
-**│
-**├── python-network-sniffer/** # Python packet sniffer
-**│ ├── sniffer.py**
-**│ ├── requirements.txt**
-**│ ├── screenshots/**
-**│ └── README.md**
-**│
-**└── README.md** # This file
-
----
-
 ## How to Use
 
 Each project has its own folder with a dedicated README explaining:
